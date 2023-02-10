@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar1{
+    background-color: #1786a9;
+    height: 5%;
+}
+.navbar1 ul{
+    overflow:auto;
+}
+.navbar1 li{
+    float:left;
+    list-style: none;
+    margin: 1%;
+}
+.navbar1 li a{
+    text-decoration: none;
+    border-radius: 2ex;
+    padding: 5px;
+    color: white;
+}
+.navbar1 li a:hover{
+    background-color: rgb(4, 39, 79);
+}
+.home3{
+    float:right
+}
+.home4{
+    width:70%;
+    height: 40px;
+    margin: 4px;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+.home5{
+    width:40px;
+    height: 70%;
+    margin: 4px;
+    margin-right: 10px;
+    margin-top: 7px;
+    border-radius: 1ex;
+}
+
+
+
+.home7{
+    background: url(image1.jpg) center center;
+    background-size: cover;
+}
+.home8{
+    width:25%;
+    height: 25%;
+    border-radius: 30ex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;  
+    padding-bottom: 10px;  
+}
+/* .home9{
+    text-align: center;
+    color: yellow;
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;
+} */
+.home10{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: ui-monospace;   
+}
+.home11{
+    /* margin-left: 34%; */
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   font-family: inherit;
+   padding-top: .5%;
+}
+.home12{
+ 
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   font-family: inherit;
+   padding-bottom: 2%;
+}
+
+
+
+
+
+
+.footer1{
+    background-color: aqua;
+
+}
+.home13{
+    font-family: monospace;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.home13 a{
+    text-decoration: none;
+}
+.home14{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: large;
+}
+.home15{
+    text-align: center;
+    padding: 10px;    font-size: large;
+}
+.home16{
+    text-align: center;  
+    padding-top: 10px;  font-size: large;
+}
